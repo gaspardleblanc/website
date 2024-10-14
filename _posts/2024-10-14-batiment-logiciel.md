@@ -9,7 +9,7 @@ pin: false
 math: true
 mermaid: true
 image:
-  path: /ressources/pipeline.png
+  path: /ressources/building-software.png
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
