@@ -5,7 +5,7 @@ author: Gaspard Leblanc
 date: 2024-10-14 12:00:00 +0800
 categories: [Tuto, Education]
 tags: [tuto]
-pin: false
+pin: true
 math: true
 mermaid: true
 image:
